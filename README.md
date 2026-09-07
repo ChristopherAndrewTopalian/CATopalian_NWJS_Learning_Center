@@ -1,4 +1,4 @@
-# CATopalian JavaScript NW.js Learning Center
+# CATopalian NWJS Learning Center
 A JavaScript NW.js Node.js application that allows us to make a desktop application using HTML, CSS, JS, and Node.js, that opens files in their native applications or shows them in File Explorer on Windows for easy editing.
 
 REQUIREMENTS:
@@ -8,7 +8,7 @@ REQUIREMENTS:
 
 ---
 
-![screenshot_001](CATopalian_JavaScript_NW.js_Learning_Center/src/media/textures/screenshots/001a.PNG)
+![screenshot_001](app/src/media/textures/screenshots/001a.PNG)
 
 ---
 
@@ -16,7 +16,7 @@ To run this application we:
 * Download NW.js
 * Extract All
 * Find the nw.exe icon
-* Drag the folder named CATopalian_JavaScript_NW.js_Learning_Center onto the nw.exe icon  
+* Drag the folder named app onto the nw.exe icon  
 
 Full Instructions on Running our app here: https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js
 
@@ -27,7 +27,7 @@ Full Instructions on Running our app here: https://github.com/ChristopherAndrewT
 2. Choose Download ZIP
 3. Save the Zip File
 4. Extract All
-5. Drag the folder named CATopalian_JavaScript_NW.js_Learning_Center onto the nw.exe icon 
+5. Drag the folder named app onto the nw.exe icon 
 
 ---
 
