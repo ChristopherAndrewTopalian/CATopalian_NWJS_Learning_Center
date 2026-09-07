@@ -14,6 +14,10 @@ function makeInterface()
 
     //-//
 
+    mainDiv.append(makeTitleOfApp());
+
+    //-//
+
     let openContainer = ce('div');
     openContainer.style.display = 'flex';
     openContainer.style.flexDirection = 'column';
@@ -149,7 +153,7 @@ function makeInterface()
 //----//
 
 // Dedicated to God the Father
-// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025
+// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026
 // https://github.com/ChristopherTopalian
 // https://github.com/ChristopherAndrewTopalian
 // https://sites.google.com/view/CollegeOfScripting
